@@ -11,7 +11,9 @@ To use this application, you will have to first get your own API key at https://
 voiceAPIkey = ""
 ```
 
-for best results, you will have to build the application with pyinstaller. Then run the main.exe file in the ./dist/main/ folder.
+for best results, you will have to build the application with pyinstaller.
+https://pypi.org/project/pyinstaller/
+Then run the main.exe file in the ./dist/main/ folder.
 
 ## Issues
 
