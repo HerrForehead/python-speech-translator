@@ -13,6 +13,9 @@ voiceAPIkey = ""
 
 for best results, you will have to build the application with pyinstaller.
 https://pypi.org/project/pyinstaller/
+```pip install pyinstaller```
+Then
+```pyinstaller main.py```
 Then run the main.exe file in the ./dist/main/ folder.
 
 ## Issues
