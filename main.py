@@ -12,7 +12,7 @@ voiceAPIkey = "347a82c07cf74069a02b57624dbc39cb"
 sourceLangChoice = ['nil', 'nil']
 targetLangChoice = ['nil', 'nil']
 
-sourceLang = input("What language do you speak?(Enter 1, 2 or 3 and press enter)\n1:English\n2:Dutch\n3:German\n")
+sourceLang = input("What language do you speak? (Enter 1, 2 or 3 and press enter)\n1: English\n2: Dutch\n3: German\n")
 if sourceLang == "1":
     sourceLangChoice = ["en-US", "en"]
 elif sourceLang == "2":
@@ -20,7 +20,7 @@ elif sourceLang == "2":
 elif sourceLang == "3":
     sourceLangChoice = ["de-DE", "de"]
 
-targetLang = input("What language will translation be?(Type 1, 2 or 3 and press enter)\n1:English\n2:Dutch\n3:German\n")
+targetLang = input("What language will translation be? (Type 1, 2 or 3 and press enter)\n1: English\n2: Dutch\n3: German\n")
 if targetLang == "1":
     targetLangChoice = ["en-US", "en"]
 elif targetLang == "2":
