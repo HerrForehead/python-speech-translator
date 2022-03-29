@@ -8,7 +8,7 @@ import os
 import time
 import sys
 
-voiceAPIkey = "347a82c07cf74069a02b57624dbc39cb"
+voiceAPIkey = ""
 sourceLangChoice = ['nil', 'nil']
 targetLangChoice = ['nil', 'nil']
 
